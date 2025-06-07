@@ -40,14 +40,13 @@ Automate the detection of septal bounce in CMRI, reducing the subjectivity and m
 ![Localization Loss](localization_loss.png)
 
 ### Localization Model Metrics
-![Localization Metrics](localization_metrics.png)
+![Localization Metrics](loc_train//results.png)
 
 ### Segmentation Model Loss
 ![Segmentation Loss](segmentation_loss.png)
 
 ### Segmentation Model Metrics
-![Segmentation Metrics](segmentation_metrics.png)
-
+![Segmentation Metrics](seg_train//results.png)
 ## Repository Structure
 
 ```
