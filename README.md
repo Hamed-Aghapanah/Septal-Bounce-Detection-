@@ -34,6 +34,20 @@ Automate the detection of septal bounce in CMRI, reducing the subjectivity and m
 
 - SVM classifier achieved >90% sensitivity and specificity.
 
+## Visualization of Training Metrics
+
+### Localization Model Loss
+![Localization Loss](localization_loss.png)
+
+### Localization Model Metrics
+![Localization Metrics](localization_metrics.png)
+
+### Segmentation Model Loss
+![Segmentation Loss](segmentation_loss.png)
+
+### Segmentation Model Metrics
+![Segmentation Metrics](segmentation_metrics.png)
+
 ## Repository Structure
 
 ```
